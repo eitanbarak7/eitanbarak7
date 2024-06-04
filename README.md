@@ -12,11 +12,11 @@
 - 🔒 Cyber Security Tools
 
 ## 🚀 Experience & Projects
-- 🔐 R&D Intern @ CyberArk (Summer 2023)
+- 🔐 R&D Intern @CyberArk (Summer 2023)
   - Built LLM Chat Service for corporate users 🤖
 - 🎣 Phishing Detection Service
   - AI-driven, client-side system integrated with Gmail API 📧
-- 🌟 Top 10 Web Designer in Israel @ Fiverr
+- 🌟 Top 10 Web Designer in Israel @Fiverr
   - Crafting stunning websites that mean business 💼
 
 ## 🎓 Education
