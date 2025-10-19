@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" align="right">
 
-🎓 17-year-old high school grad with a 🧠 for tech and an 👁️ for design.
+Enthusiastic for tech and an 👁️ for design.
 
 ## 🛠️ Tech Toolbox
 - 💻 Python | Java | x86 Assembly
